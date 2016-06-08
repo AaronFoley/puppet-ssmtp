@@ -1,0 +1,14 @@
+ssmtp::ssmtp_conf: "/etc/ssmtp/ssmtp.conf"
+ssmtp::revaliases_conf: "/etc/ssmtp/revaliases"
+ssmtp::package_name: "ssmtp"
+
+ssmtp::root: ''
+ssmtp::mail_hub: ''
+ssmtp::rewrite_domain: ''
+ssmtp::hostname: ''
+ssmtp::from_line_override: 'yes'
+ssmtp::usetls: ''
+ssmtp::usestarttls: ''
+ssmtp::authuser: ''
+ssmtp::authpass: ''
+ssmtp::authmethod: ''

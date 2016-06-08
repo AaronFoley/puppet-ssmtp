@@ -1,0 +1,10 @@
+{
+  "name":           "aaronfoley-ssmtp",
+  "version":        "0.0.1",
+  "author":         "Aaron Foley",
+  "license":        "WTFPL",
+  "summary":        "Installs and sets up SSMTP",
+  "source":         "https://github.com/aaronfoley/puppet",
+  "dependencies":   [],
+  "data_provider":  "hiera"
+}
